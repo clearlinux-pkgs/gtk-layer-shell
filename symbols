@@ -25,6 +25,8 @@ libgtk-layer-shell.so.0:gdk_wayland_pointer_data_priv_get_grab_window
 libgtk-layer-shell.so.0:gdk_wayland_pointer_data_priv_get_pointer_surface
 libgtk-layer-shell.so.0:gdk_wayland_pointer_data_priv_get_pointer_surface_outputs
 libgtk-layer-shell.so.0:gdk_wayland_pointer_data_priv_get_press_serial
+libgtk-layer-shell.so.0:gdk_wayland_pointer_data_priv_get_shape_device_or_abort
+libgtk-layer-shell.so.0:gdk_wayland_pointer_data_priv_get_shape_device_supported
 libgtk-layer-shell.so.0:gdk_wayland_pointer_data_priv_get_surface_x
 libgtk-layer-shell.so.0:gdk_wayland_pointer_data_priv_get_surface_y
 libgtk-layer-shell.so.0:gdk_wayland_pointer_data_priv_get_time
@@ -41,6 +43,7 @@ libgtk-layer-shell.so.0:gdk_wayland_pointer_data_priv_set_grab_window
 libgtk-layer-shell.so.0:gdk_wayland_pointer_data_priv_set_pointer_surface
 libgtk-layer-shell.so.0:gdk_wayland_pointer_data_priv_set_pointer_surface_outputs
 libgtk-layer-shell.so.0:gdk_wayland_pointer_data_priv_set_press_serial
+libgtk-layer-shell.so.0:gdk_wayland_pointer_data_priv_set_shape_device_or_abort
 libgtk-layer-shell.so.0:gdk_wayland_pointer_data_priv_set_surface_x
 libgtk-layer-shell.so.0:gdk_wayland_pointer_data_priv_set_surface_y
 libgtk-layer-shell.so.0:gdk_wayland_pointer_data_priv_set_time
